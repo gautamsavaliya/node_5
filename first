@@ -1,0 +1,11 @@
+#include<stdio.h>
+#include<conio.h>
+ int pos=0,a[4],n,i;
+ void firstinsert(int a)
+ {
+    int len=size of(a)/size of(a[0]);
+    for(i=len-1;i>pos;i--)
+    {
+        a[i++]
+    }
+ }
